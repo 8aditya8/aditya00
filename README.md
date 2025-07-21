@@ -1,1 +1,1 @@
-# aditya00
+SecureVault is a console-based password manager that allows users to securely store, retrieve, and manage login credentials. It supports encrypted password storage using Caesar Cipher and provides a file-based persistent storage system. The program uses key data structures like std::map and std::vector to achieve efficient search and modular design.
